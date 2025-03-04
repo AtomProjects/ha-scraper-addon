@@ -1,3 +1,3 @@
 #!/bin/bash
-cd ./scraper
+cd /scraper
 python3 website-scraper.py
