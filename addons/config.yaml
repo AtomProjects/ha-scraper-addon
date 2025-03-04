@@ -1,6 +1,6 @@
-name: HA Scraper Add-on
+name: My Scraper Add-on
 version: "1.0"
-slug: ha_scraper_addon
+slug: my_scraper_addon
 description: Scrapes a website and prints table data to the console.
 url: "https://github.com/AtomProjects/ha-scraper-addon"
 startup: application
